@@ -1,0 +1,25 @@
+.tekst1{
+    color: #68b0ab;
+    background-color:#006a71 ;
+}
+.tekst2{
+    color: #ff7e67;
+    background-color: #ecf4f3;
+}
+.r1{
+    color: #ff7e67;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+.r2{
+     color:#006a71 ;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: x-large;
+
+}
+.ljeto1{
+    border-radius: 20%;
+    float: left;
+ 
+}
+
